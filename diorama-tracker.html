@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Coral Vivo Diorama</title>
+<!--  MouseStats:Begin  -->
+<script type="text/javascript">var MouseStats_Commands=MouseStats_Commands?MouseStats_Commands:[]; (function(){function b(){if(void 0==document.getElementById("__mstrkscpt")){var a=document.createElement("script");a.type="text/javascript";a.id="__mstrkscpt";a.src=("https:"==document.location.protocol?"https://ssl":"http://www2")+".mousestats.com/js/4/7/4777990200349541699.js?"+Math.floor((new Date).getTime()/6E5);a.async=!0;a.defer=!0;(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}}window.attachEvent?window.attachEvent("onload",b):window.addEventListener("load", b,!1);"complete"===document.readyState&&b()})(); </script>
+<!--  MouseStats:End  -->
+<link rel="stylesheet" type="text/css" href="./inspector.css">
+<body style="max-width:1024px;width:1024px;margin:0 auto;"> 
+ 
+<div id="observablehq-ce95a734">
+  <div class="observablehq-title" style="position:relative;"></div>
+  <div class="observablehq-mainDisplay"></div>
+  <div class="observablehq-chart"></div>
+  <div class="observablehq-popups" style="display:none;"></div>
+  <div class="observablehq-styles" style="display:none;"></div>
+  <div class="observablehq-setMainDisplay" style="display:none;"></div>
+  <div class="observablehq-populationCallback" style="display:none;"></div>
+  <div class="observablehq-overlayCallback" style="display:none;"></div>
+</div>
+<script type="module">
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+  import define from "https://api.observablehq.com/d/494dea13608c9f5d.js?v=3";
+  (new Runtime).module(define, name => {
+    if (name === "title") return Inspector.into("#observablehq-ce95a734 .observablehq-title")();
+    if (name === "mainDisplay") return Inspector.into("#observablehq-ce95a734 .observablehq-mainDisplay")();
+    if (name === "chart") return Inspector.into("#observablehq-ce95a734 .observablehq-chart")();
+    if (name === "popups") return Inspector.into("#observablehq-ce95a734 .observablehq-popups")();
+    if (name === "styles") return Inspector.into("#observablehq-ce95a734 .observablehq-styles")();
+    if (name === "setMainDisplay") return Inspector.into("#observablehq-ce95a734 .observablehq-setMainDisplay")();
+    if (name === "populationCallback") return Inspector.into("#observablehq-ce95a734 .observablehq-populationCallback")();
+    if (name === "overlayCallback") return Inspector.into("#observablehq-ce95a734 .observablehq-overlayCallback")();
+  });
+</script>
+ 
+</body>
