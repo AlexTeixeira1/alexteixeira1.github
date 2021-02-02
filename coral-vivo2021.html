@@ -1,0 +1,49 @@
+<html>
+<head><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"></head>
+<body style="">
+<style type="text/css">
+	* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	}
+
+	body {
+		padding-right:5px;
+		width: 98vw;
+		height:56vw;
+		overflow-x: hidden;
+		display: flex;
+		flex-wrap:wrap;
+	}
+
+	.title{
+		line-height: 1.5;
+	}
+</style>
+
+<div class="title"></div>
+<div class="main"></div>
+<div class="styles2"></div>
+<div class="styles"></div>
+<p style='display: none'>Credit: <a href="https://observablehq.com/d/c57e074f439557bb">Coral Vivo Diorama v2 by Alex Teixeira</a></p>
+
+<script type="module">
+window.addEventListener("resize", function(e)
+	{
+	console.log('window resized..');
+	this.location.reload(false); /* false to get page from cache */
+	/* true to fetch page from server */
+	});
+
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/d/c57e074f439557bb.js?v=3";
+(new Runtime).module(define, name => {
+  if (name === "title") return Inspector.into(".title")();
+  if (name === "main") return Inspector.into(".main")();
+  if (name === "styles2") return Inspector.into(".styles2")();
+  if (name === "styles") return Inspector.into(".styles")();
+  return ["popups","popupCallback","zoomControl","cardInfo","cardPanelAdd","setMainDisplay","imgDb","card","speciesInfo","getImageEntry","converteLegenda","dataSum","speciesTable","whitenedCoralMat","getBranqueamento","d3PlotEspecieIndicador","popTableCSV","transparentPixel","layout","popData","converteLegendaCallback","s","chart","draw3D","populationCallback"].includes(name) || null;
+});
+</script>
+</body>
+</html>
