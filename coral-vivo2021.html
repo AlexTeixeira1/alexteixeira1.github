@@ -7,13 +7,19 @@
   -moz-osx-font-smoothing: grayscale;
 	}
 
-	body {
+	body,main {
 		padding-right:5px;
+		max-width:1024px;
+		min-width: 1024px;
 		width: 98vw;
 		height:56vw;
+		max-height: 512px;
 		overflow-x: hidden;
-/* 		display: flex;
-		flex-wrap:wrap; */
+		overflow-y: hidden;
+		margin:auto;
+		position: relative;
+		/*display: flex;
+		flex-wrap:wrap;*/
 	}
 
 	.title{
@@ -23,6 +29,7 @@
 
 <div class="title"></div>
 <div class="main"></div>
+
 <div class="styles2"></div>
 <div class="styles"></div>
 <p style='display: none'>Credit: <a href="https://observablehq.com/d/c57e074f439557bb">Coral Vivo Diorama v2 by Alex Teixeira</a></p>
@@ -42,7 +49,7 @@ import define from "https://api.observablehq.com/d/c57e074f439557bb.js?v=3";
   if (name === "main") return Inspector.into(".main")();
   if (name === "styles2") return Inspector.into(".styles2")();
   if (name === "styles") return Inspector.into(".styles")();
-  return ["overlayCallback","ctxOverlay","popups","popupCallback","zoomControl","cardInfo","cardPanelAdd","setMainDisplay","imgDb","card","speciesInfo","getImageEntry","converteLegenda","dataSum","speciesTable","whitenedCoralMat","getBranqueamento","d3PlotEspecieIndicador","popTableCSV","transparentPixel","layout","popData","converteLegendaCallback","s","chart","draw3D","populationCallback"].includes(name) || null;
+  return ["drawingWidth","width","overlayCallback","ctxOverlay","popups","popupCallback","zoomControl","cardInfo","cardPanelAdd","setMainDisplay","imgDb","card","speciesInfo","getImageEntry","converteLegenda","dataSum","speciesTable","whitenedCoralMat","getBranqueamento","d3PlotEspecieIndicador","popTableCSV","transparentPixel","layout","popData","converteLegendaCallback","s","chart","draw3D","populationCallback"].includes(name) || null;
 });
 </script>
 </body>
