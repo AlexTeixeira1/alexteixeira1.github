@@ -1,0 +1,233 @@
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="popup diorama3.svg"
+   id="svg73"
+   version="1.1"
+   fill="none"
+   viewBox="4 4 790 92"
+   height="92"
+   width="790">
+  <metadata
+     id="metadata77">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg73"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="53"
+     inkscape:cx="529.15239"
+     inkscape:zoom="0.99498747"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview75"
+     inkscape:window-height="480"
+     inkscape:window-width="1508"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     filter="url(#filter0_d)"
+     id="texto navegacao">
+    <rect
+       fill-opacity="0.8"
+       fill="#f1f1f1"
+       rx="4"
+       height="92"
+       width="790"
+       y="2"
+       x="4"
+       id="Rectangle 4" />
+    <g
+       id="Para acessar dados de um ou animal: clique sobre a figura na imagem abaixo ou sobre o nome na lista Ã  direita">
+      <text
+         id="text15"
+         letter-spacing="0em"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan11"
+           y="62.101601"
+           x="32.556599">clique sobre a figura na imagem abaixo </tspan><tspan
+           id="tspan13"
+           y="78.101601"
+           x="48.4473">ou sobre o nome na lista à direita</tspan></text>
+      <text
+         id="text19"
+         letter-spacing="0em"
+         font-weight="bold"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan17"
+           y="46.101601"
+           x="36.2188">Para acessar dados de um animal: </tspan></text>
+    </g>
+    <g
+       id="Para girar a cÃ¢mera: arraste o mouse com o botÃ£o esquerdo pressionado">
+      <text
+         id="text28"
+         letter-spacing="0em"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan22"
+           y="31.101601"
+           x="355.09601" /><tspan
+           id="tspan24"
+           y="63.101601"
+           x="304.52899">arraste o  mouse com o botão esquerdo </tspan><tspan
+           id="tspan26"
+           y="79.101601"
+           x="378.02301">pressionado </tspan></text>
+      <text
+         id="text32"
+         letter-spacing="0em"
+         font-weight="bold"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan30"
+           y="47.101601"
+           x="355.09601">Para girar a câmera: 
+</tspan></text>
+    </g>
+    <g
+       id="Para aproximar ou afastar a cÃ¢mera: gire a rodinha central do mouse">
+      <text
+         id="text39"
+         letter-spacing="0em"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan35"
+           y="30.747999"
+           x="543.02002" /><tspan
+           id="tspan37"
+           y="62.748001"
+           x="558.37701">gire a rodinha central do mouse
+</tspan></text>
+      <text
+         id="text43"
+         letter-spacing="0em"
+         font-weight="bold"
+         font-size="12px"
+         font-family="Roboto"
+         style="white-space:pre;font-family:sans-serif;"
+         xml:space="preserve"
+         fill="#000000"><tspan
+           id="tspan41"
+           y="46.748001"
+           x="543.02002">Para aproximar ou afastar a câmera: 
+</tspan></text>
+    </g>
+    <path
+       fill="#000000"
+       d="m 408,18.6465 h 4 v -3.1212 h 3 l -5,-5.2021 -5,5.2021 h 3 z m -1,1.0404 h -3 v -3.1212 l -5,5.202 5,5.202 v -3.1212 h 3 z m 14,2.0808 -5,-5.202 v 3.1212 h -3 v 4.1616 h 3 v 3.1212 z m -9,3.1212 h -4 v 3.1212 h -3 l 5,5.202 5,-5.202 h -3 z"
+       id="move" />
+    <path
+       fill="#000000"
+       d="m 662.5,23.8485 h -0.79 l -0.28,-0.2809 c 0.98,-1.1861 1.57,-2.7259 1.57,-4.4009 0,-3.7351 -2.91,-6.7626 -6.5,-6.7626 -3.59,0 -6.5,3.0275 -6.5,6.7626 0,3.735 2.91,6.7626 6.5,6.7626 1.61,0 3.09,-0.6138 4.23,-1.6334 l 0.27,0.2913 v 0.8219 l 5,5.1916 1.49,-1.5502 z m -6,0 c -2.49,0 -4.5,-2.0912 -4.5,-4.6818 0,-2.5906 2.01,-4.6818 4.5,-4.6818 2.49,0 4.5,2.0912 4.5,4.6818 0,2.5906 -2.01,4.6818 -4.5,4.6818 z m -2.5,-5.202 h 5 v 1.0404 h -5 z"
+       id="zoom out" />
+    <g
+       id="zoom in">
+      <path
+         fill="#000000"
+         d="m 634.5,23.8485 h -0.79 l -0.28,-0.2809 c 0.98,-1.1861 1.57,-2.7259 1.57,-4.4009 0,-3.7351 -2.91,-6.7626 -6.5,-6.7626 -3.59,0 -6.5,3.0275 -6.5,6.7626 0,3.735 2.91,6.7626 6.5,6.7626 1.61,0 3.09,-0.6138 4.23,-1.6334 l 0.27,0.2913 v 0.8219 l 5,5.1916 1.49,-1.5502 z m -6,0 c -2.49,0 -4.5,-2.0912 -4.5,-4.6818 0,-2.5906 2.01,-4.6818 4.5,-4.6818 2.49,0 4.5,2.0912 4.5,4.6818 0,2.5906 -2.01,4.6818 -4.5,4.6818 z"
+         id="Vector_2" />
+      <path
+         fill="#000000"
+         d="m 631,19.6869 h -2 v 2.0808 h -1 v -2.0808 h -2 v -1.0404 h 2 v -2.0809 h 1 v 2.0809 h 2 z"
+         id="Vector_3" />
+    </g>
+    <g
+       id="mao">
+      <g
+         id="mao_2">
+        <g
+           id="Group">
+          <path
+             fill="#000000"
+             d="m 126.25,17.8558 v -3.8911 c 0,-1.4358 1.12,-2.6011 2.5,-2.6011 1.38,0 2.5,1.1653 2.5,2.6011 v 3.8911 c 1.21,-0.8428 2,-2.2681 2,-3.8911 0,-2.5907 -2.01,-4.68186 -4.5,-4.68186 -2.49,0 -4.5,2.09116 -4.5,4.68186 0,1.623 0.79,3.0483 2,3.8911 z m 9.84,4.817 -4.54,-2.3513 c -0.17,-0.0728 -0.35,-0.1144 -0.54,-0.1144 h -0.76 v -6.2424 c 0,-0.8636 -0.67,-1.5607 -1.5,-1.5607 -0.83,0 -1.5,0.6971 -1.5,1.5607 v 11.1739 c -3.6,-0.7907 -3.54,-0.7803 -3.67,-0.7803 -0.31,0 -0.59,0.1352 -0.79,0.3433 l -0.79,0.8323 4.94,5.1396 c 0.27,0.281 0.65,0.4578 1.06,0.4578 h 6.79 c 0.75,0 1.33,-0.5722 1.44,-1.3317 l 0.75,-5.4829 c 0.01,-0.0729 0.02,-0.1457 0.02,-0.2081 0,-0.6451 -0.38,-1.2069 -0.91,-1.4358 z"
+             id="Vector_4" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs71">
+    <filter
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse"
+       height="100"
+       width="798"
+       y="0"
+       x="0"
+       id="filter0_d">
+      <feFlood
+         id="feFlood56"
+         result="BackgroundImageFix"
+         flood-opacity="0" />
+      <feColorMatrix
+         id="feColorMatrix58"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         type="matrix"
+         in="SourceAlpha" />
+      <feOffset
+         id="feOffset60"
+         dy="2" />
+      <feGaussianBlur
+         id="feGaussianBlur62"
+         stdDeviation="2" />
+      <feColorMatrix
+         id="feColorMatrix64"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         type="matrix" />
+      <feBlend
+         id="feBlend66"
+         result="effect1_dropShadow"
+         in2="BackgroundImageFix"
+         mode="normal" />
+      <feBlend
+         id="feBlend68"
+         result="shape"
+         in2="effect1_dropShadow"
+         in="SourceGraphic"
+         mode="normal" />
+    </filter>
+  </defs>
+</svg>
